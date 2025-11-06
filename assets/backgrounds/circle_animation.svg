@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 100 100" preserveAspectRatio="true" style="display:block; background: transparent;">
+  <defs>
+    <!-- Colors -->
+    <style>
+      .lg { fill: #d9d9d9; }        /* light gray */
+      .pu { fill: #cdb4ff; }        /* soft purple */
+      .cy { fill: #b9f2ff; }        /* soft cyan */
+    </style>
+  </defs>
+
+  <!-- Circles now range from radius 2 (20%) to 10 (100%). Speed scales linearly: larger radius -> faster fall (shorter duration). -->
+  <!-- Row 1 -->
+  <circle class="lg" cx="8"  cy="-10" r="10">
+    <animate attributeName="cy" from="-10" to="110" dur="8s" begin="-5s" repeatCount="indefinite" />
+  </circle>
+  <circle class="pu" cx="18" cy="-10" r="6">
+    <animate attributeName="cy" from="-10" to="110" dur="14s" begin="-12s" repeatCount="indefinite" />
+  </circle>
+  <circle class="cy" cx="28" cy="-10" r="8">
+    <animate attributeName="cy" from="-10" to="110" dur="11s" begin="-3s" repeatCount="indefinite" />
+  </circle>
+  <circle class="lg" cx="38" cy="-10" r="5">
+    <animate attributeName="cy" from="-10" to="110" dur="16s" begin="-9s" repeatCount="indefinite" />
+  </circle>
+  <circle class="pu" cx="48" cy="-10" r="9">
+    <animate attributeName="cy" from="-10" to="110" dur="9s" begin="-6s" repeatCount="indefinite" />
+  </circle>
+  <circle class="cy" cx="58" cy="-10" r="4">
+    <animate attributeName="cy" from="-10" to="110" dur="18s" begin="-2s" repeatCount="indefinite" />
+  </circle>
+  <circle class="lg" cx="68" cy="-10" r="7">
+    <animate attributeName="cy" from="-10" to="110" dur="12s" begin="-8s" repeatCount="indefinite" />
+  </circle>
+  <circle class="pu" cx="78" cy="-10" r="3">
+    <animate attributeName="cy" from="-10" to="110" dur="20s" begin="-14s" repeatCount="indefinite" />
+  </circle>
+  <circle class="cy" cx="88" cy="-10" r="10">
+    <animate attributeName="cy" from="-10" to="110" dur="8s" begin="-7s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- Row 2 -->
+  <circle class="pu" cx="4"  cy="-10" r="5">
+    <animate attributeName="cy" from="-10" to="110" dur="16s" begin="-10s" repeatCount="indefinite" />
+  </circle>
+  <circle class="cy" cx="14" cy="-10" r="7">
+    <animate attributeName="cy" from="-10" to="110" dur="12s" begin="-4s" repeatCount="indefinite" />
+  </circle>
+  <circle class="lg" cx="24" cy="-10" r="9">
+    <animate attributeName="cy" from="-10" to="110" dur="9s" begin="-11s" repeatCount="indefinite" />
+  </circle>
+  <circle class="pu" cx="34" cy="-10" r="3">
+    <animate attributeName="cy" from="-10" to="110" dur="20s" begin="-1s" repeatCount="indefinite" />
+  </circle>
+  <circle class="cy" cx="44" cy="-10" r="8">
+    <animate attributeName="cy" from="-10" to="110" dur="11s" begin="-13s" repeatCount="indefinite" />
+  </circle>
+  <circle class="lg" cx="54" cy="-10" r="6">
+    <animate attributeName="cy" from="-10" to="110" dur="14s" begin="-6s" repeatCount="indefinite" />
+  </circle>
+  <circle class="pu" cx="64" cy="-10" r="2">
+    <animate attributeName="cy" from="-10" to="110" dur="22s" begin="-15s" repeatCount="indefinite" />
+  </circle>
+  <circle class="cy" cx="74" cy="-10" r="10">
+    <animate attributeName="cy" from="-10" to="110" dur="8s" begin="-5s" repeatCount="indefinite" />
+  </circle>
+  <circle class="lg" cx="84" cy="-10" r="4">
+    <animate attributeName="cy" from="-10" to="110" dur="18s" begin="-12s" repeatCount="indefinite" />
+  </circle>
+  <circle class="pu" cx="94" cy="-10" r="6">
+    <animate attributeName="cy" from="-10" to="110" dur="14s" begin="-3s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- Row 3 -->
+  <circle class="cy" cx="12" cy="-10" r="9">
+    <animate attributeName="cy" from="-10" to="110" dur="9s" begin="-9s" repeatCount="indefinite" />
+  </circle>
+  <circle class="lg" cx="22" cy="-10" r="2">
+    <animate attributeName="cy" from="-10" to="110" dur="22s" begin="-7s" repeatCount="indefinite" />
+  </circle>
+  <circle class="pu" cx="32" cy="-10" r="7">
+    <animate attributeName="cy" from="-10" to="110" dur="12s" begin="-2s" repeatCount="indefinite" />
+  </circle>
+  <circle class="cy" cx="42" cy="-10" r="5">
+    <animate attributeName="cy" from="-10" to="110" dur="16s" begin="-6s" repeatCount="indefinite" />
+  </circle>
+  <circle class="lg" cx="52" cy="-10" r="8">
+    <animate attributeName="cy" from="-10" to="110" dur="11s" begin="-4s" repeatCount="indefinite" />
+  </circle>
+  <circle class="pu" cx="62" cy="-10" r="6">
+    <animate attributeName="cy" from="-10" to="110" dur="14s" begin="-11s" repeatCount="indefinite" />
+  </circle>
+  <circle class="cy" cx="72" cy="-10" r="3">
+    <animate attributeName="cy" from="-10" to="110" dur="20s" begin="-13s" repeatCount="indefinite" />
+  </circle>
+  <circle class="lg" cx="82" cy="-10" r="10">
+    <animate attributeName="cy" from="-10" to="110" dur="8s" begin="-1s" repeatCount="indefinite" />
+  </circle>
+  <circle class="pu" cx="92" cy="-10" r="4">
+    <animate attributeName="cy" from="-10" to="110" dur="18s" begin="-10s" repeatCount="indefinite" />
+  </circle>
+</svg>
