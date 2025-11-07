@@ -10,16 +10,16 @@ draft: false
 
 [Google Scholar {{<icon "google-scholar">}}](https://scholar.google.com/citations?&user=EIR50qkAAAAJ)
 |
-[Orcid {{<icon "orcid">}}](https://orcid.org/0000-0002-3707-2118)
-|
 [arXiv](https://arxiv.org/a/frazier_g_1.html)
+|
+[ORCID {{<icon "orcid">}}](https://orcid.org/0000-0002-3707-2118)
 
 I am a PhD student studying condensed matter theory under 
 [Prof. Yi Li](https://physics-astronomy.jhu.edu/directory/yi-li/) 
 at Johns Hopkins University.
 My research interests include unconventional superconductivity, topological materials, and strongly correlated systems.
 
-[**CV**](about/) 
+[**Curriculum Vitae**](about/) 
 ||
 [**Research**](research/) 
 || 

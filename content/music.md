@@ -7,17 +7,22 @@ heroStyle = "background"
 showHero = true
 +++
 
-Apart from physics, I also enjoy playing and composing music semiprofessionally.
-My primary instrument is saxophone, and I play and compose jazz music.
+Apart from physics, I also enjoy playing and composing music.
+My main instrument is saxophone, and I primarily play and compose jazz music.
 
 
-Outside playing the occasional gigs, I also enjoy trancribing solos in my freetime.
+<!--Outside playing the occasional gigs, -->
+I also enjoy trancribing solos in my freetime.
 Below is a small selection of personal favorites, which I have typed.
 Please contact me if you would prefer a transposed version.
 
 
 <!--[{{<icon "music" >}} What am I listening to now? {{<icon "music" >}}](https://paultowndrow.bandcamp.com/album/deepening-the-river)-->
 
+
+<figure style="width: 100%;">
+<img src="/images/grf_sax.jpeg" style="width: 50%;" >
+</figure>
 
 
 ---

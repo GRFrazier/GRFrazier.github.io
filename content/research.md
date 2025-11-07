@@ -55,12 +55,12 @@ An up-to-date list of publications can be found at
 [Google Scholar](https://scholar.google.com/citations?&user=EIR50qkAAAAJ),
 [arXiv](https://arxiv.org/a/frazier_g_1.html),
 or
-[Orcid](https://orcid.org/0000-0002-3707-2118).
+[ORCID](https://orcid.org/0000-0002-3707-2118).
 <!--Below is a list of selected [publications](#publications) and [presentations](#presentations)-->
 
 
 
-  <img src="/images/research/effective_tunneling.sd.png" style="width: 100%;" >
+<img src="/images/research/effective_tunneling.sd.png" style="width: 100%;" >
 <figure style="width: 70%;">
   <figcaption>
   <b>Figure:</b> Effective tunneling of itinerant electrons in presence of a frustrated local exchange field.
