@@ -18,7 +18,7 @@ defaultContentLanguage = "en"
 
 
 
-enableRobotsTXT = true
+enableRobotsTXT = false #set to false to make own robots.txt in static folder
 summaryLength = 0
 
 buildDrafts = false
