@@ -65,7 +65,7 @@ Mentor: Di Xiao
     <!-- -->
     <li>
     <b>"Anisotropic Josephson Coupling of <i>d</i>-vectors Arising from Interplay with Frustrated Spin Textures"</b><br>
-    <b>G. R. Frazier</b> and Y. Li<br>
+    <b>G. R. Frazier</b>, J. Zhang, and Y. Li<br>
     <a href="https://doi.org/10.48550/arXiv.2506.15661">arXiv.2506.15661 (2025)</a>, Under review
     </li>
     <!-- -->
@@ -79,7 +79,7 @@ Mentor: Di Xiao
     <!-- -->
     <li>
     <b>"Designing Phase Sensitive Probes of Monopole Superconducting Order"</b><br>
-    Y. Li and <b>G. R. Frazier</b> <br>
+    <b>G. R. Frazier</b>, J. Zhang, J. Zhang, X. Sun, and Y. Li <br>
     <a href="https://doi.org/10.1103/PhysRevResearch.6.043189">Phys. Rev. Research <b>6</b> 043189 (2024)</a>
     </li>
     <!-- -->
