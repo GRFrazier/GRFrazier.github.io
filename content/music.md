@@ -66,7 +66,10 @@ From [Saxophone Supremacy (1959)](https://www.youtube.com/watch?v=2lyzmN3xHhc)
 
 
 ---
-**More to be typed!** <br>
+{{< alert >}}
+*More to be typed!*
+{{< /alert >}}
+<br>
 
 
 *Above transcriptions were typed using [Lilypond](https://www.google.com/url?q=https%3A%2F%2Flilypond.org%2F&sa=D)*
