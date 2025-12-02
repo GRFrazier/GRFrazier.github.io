@@ -30,3 +30,17 @@ Below is a collection of selected notes, taken from research and teaching.
 *More to come!*
 {{< /alert >}}
 
+
+
+
+<!--To add:
+- TBM of TMDs
+- Elliptic integrals
+- Self-consistency
+- Josephson effects
+- Spin chirality and effective hopping
+- Mermin-Ho/ Coreless vortices
+- 4\pi periodic Josephson current
+- CdGM States
+- Charge pumping
+-->

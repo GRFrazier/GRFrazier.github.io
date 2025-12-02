@@ -72,5 +72,5 @@ From [Saxophone Supremacy (1959)](https://www.youtube.com/watch?v=2lyzmN3xHhc)
 <br>
 
 
-*Above transcriptions were typed using [Lilypond](https://www.google.com/url?q=https%3A%2F%2Flilypond.org%2F&sa=D)*
+*Above transcriptions were typed using [Lilypond](https://lilypond.org/)*
 
