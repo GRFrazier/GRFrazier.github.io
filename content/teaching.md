@@ -21,7 +21,7 @@ Below is a collection of selected notes, taken from research and teaching.
 
 2) [<b>Schrieffer-Wolff Transformation and Application to Anderson and Kondo Models </b> {{<icon "download" >}}](/notes/Anderson_to_Kondo_models_Schrieffer_Wolff.pdf)
 {{< details title="Click to Expand" >}}
-- Schrieffer-Wolff Transformation using Green's Function Approach
+- Schrieffer-Wolff Transformation using Green's function approach
 - Relation of Anderson and Kondo Models
 {{< /details >}}
 
