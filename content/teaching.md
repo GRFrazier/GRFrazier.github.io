@@ -35,6 +35,7 @@ Below is a collection of selected notes, taken from research and teaching.
 
 <!--To add:
 - TBM of TMDs
+- Spinor pairing (superfluid velocity)
 - Elliptic integrals
 - Self-consistency
 - Josephson effects

@@ -42,6 +42,10 @@ showHeadingAnchors: false
 <!--</div>-->
 
 
+I am currently completing my Ph.D. at Johns Hopkins University under the supervision of Prof. Yi Li, where my research explores how topological electronic states and frustrated magnetism can give rise to novel forms of unconventional superconductivity.  
+I am motivated by the conceptual frontiers where existing frameworks used to describe unconventional superconducting pairing order are insufficient.
+By developing theoretical models that describe the interplay between topological band structure, nontrivial magnetic textures, and unconventional superconducting order, I aim to establish new paradigms that can guide the design and application of quantum materials.
+
 ## Research Interests
 <ul>
     <li> Unconventional superconductivity
