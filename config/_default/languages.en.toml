@@ -12,14 +12,14 @@ title = "graysite"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
-   copyright = "&copy; 2025 G. R. Frazier.  All Rights Reserved."
+  copyright = "&copy; 2025 G. R. Frazier.  All Rights Reserved."
+  description = "Homepage of Grayson R. Frazier, a physics Ph.D. student studying condensed matter theory at Johns Hopkins."
 
  [params.author]
    name = "Grayson R. Frazier"
    email = "gfrazie2@jhu.edu"
-   image = "img/IMG_0584_edited.jpeg" #under assets folder
+   image = "img/Frazier_2025.jpeg" #under assets folder
    imageQuality = 100
-#   headline = "I'm only human"
 #   bio = "Physics PhD student at Johns Hopkins University working in condensed matter theory under Yi Li."
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
