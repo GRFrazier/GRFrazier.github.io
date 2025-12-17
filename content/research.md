@@ -131,3 +131,12 @@ or
     <a href="https://doi.org/10.1116/6.0000684">J. Vac. Sci. Technol. A <b>39</b>, 011001 (2021)</a>
     </li>
 </ol>
+
+---
+
+## Recordings of Presentations
+
+- **"Fractional Mermin-Ho relation in a spinor superconductor"** (2025) <br>
+    13th International Conference on Elastic, Electrical, Transport, and Optical Properties of Inhomogeneous Media <br>
+    New York City, NY <br>
+    [Link to Recording](https://cassyni.com/events/SXNi71RaSCfiyyoCBjTCzR) | [Slides{{<icon "download" >}}](/presentations/Frazier_ETOPIM13_Fractional_Mermin-Ho.pdf) 
