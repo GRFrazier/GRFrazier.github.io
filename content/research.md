@@ -139,4 +139,4 @@ or
 - **"Fractional Mermin-Ho relation in a spinor superconductor"** (2025) <br>
     13th International Conference on Elastic, Electrical, Transport, and Optical Properties of Inhomogeneous Media <br>
     New York City, NY <br>
-    [Link to Recording](https://cassyni.com/events/SXNi71RaSCfiyyoCBjTCzR) | [Slides{{<icon "download" >}}](/presentations/Frazier_ETOPIM13_Fractional_Mermin-Ho.pdf) 
+    [Link to Recording](https://cassyni.com/events/SXNi71RaSCfiyyoCBjTCzR) | [Slides {{<icon "download" >}}](/presentations/Frazier_ETOPIM13_Fractional_Mermin-Ho.pdf) 
