@@ -16,7 +16,7 @@ draft: false
 
 I am a PhD student studying condensed matter theory under 
 [Prof. Yi Li](https://physics-astronomy.jhu.edu/directory/yi-li/) 
-at Johns Hopkins University.
+at Johns Hopkins University, and am currently a graduate fellow at KITP.
 My research interests include unconventional superconductivity, topological materials, and strongly correlated systems.
 
 [**Curriculum Vitae**](about/) 

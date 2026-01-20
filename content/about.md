@@ -11,6 +11,7 @@ showHero = true
 <!--# About Me-->
 
 I am currently completing my Ph.D. at Johns Hopkins University under the supervision of Prof. Yi Li, where my research explores how topological electronic states and frustrated magnetism can give rise to novel forms of unconventional superconductivity.
+At present, I am a graduate fellow at KITP.
 [Below is my CV](#curriculum_vitae), and you can find more information about my research [here](/research).
 
 
@@ -27,11 +28,11 @@ I have handpicked a [few transcriptions](/music/) from some of my favorite solos
 
 # Curriculum Vitae {#curriculum_vitae}
 
-(Updated October, 2025)
+(Updated January, 2026)
 
 ## Education 
 
-**Kavli Institute of Theoretical Physics (Upcoming Appointment)** <br>
+**Kavli Institute of Theoretical Physics** <br>
 University of California, Santa Barbara, CA <br>
 *KITP Graduate Fellow*  (2026) <br>
 <!--Mentor: Erez Berg <br>-->
@@ -123,6 +124,10 @@ Chicago, IL
 ---
 
 ## Poster Short Talks
+
+- **Spatially inhomogeneous triplet pairing order and Josephson diode effect induced by frustrated spin textures**<br>
+MagLab Theory Winter School (2026)<br>
+National High Magnetic Field Lab, Tallahasee, FL
 
 - **"Anisotropic Josephson coupling of <i>d</i>-vectors arising from interplay with frustrated spin textures"**<br>
 Simons School on Superconductivity (2025)<br>

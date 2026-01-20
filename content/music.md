@@ -31,10 +31,11 @@ Please contact me if you would prefer a transposed version.
 
 ### Chris Potter: Solo from "Train"
 From [*Follow the Red Line* (2010)](https://www.youtube.com/watch?v=s9PJj1FfoHk) <br>
-(Pt. II to be typed!) <br>
 [Lead Sheet (Bb) {{<icon "download" >}}](/transcriptions/chris_potter/train_lead_sheet_Bb.pdf) 
 || 
 [Solo Transcription (Bb) {{<icon "download" >}}](/transcriptions/chris_potter/chris_potter.train.solo_Bb.pdf)
+<br>
+(Pt. II to be typed!)
 <!--<br>-->
 <!--[Lead Sheet (C)](/transcriptions/chris_potter_train/train_lead_sheet_C.pdf) -->
 <!--|| -->
@@ -64,6 +65,12 @@ From [Saxophone Supremacy (1959)](https://www.youtube.com/watch?v=2lyzmN3xHhc)
 <br>
 [Solo Transcription (Eb) {{<icon "download" >}}](/transcriptions/sonny_stitt/Sonny_Stitt.Just_Friends.Eb.pdf) 
 
+### Cannonball Adderley: Solo from "Grand Central"
+From [Cannonball Adderley Quintet in Chicago (1959)](https://www.youtube.com/watch?v=rNqhnGxAQPc&list=PLKjjIa7cwTkIyzaCmadqDC4WaC8ZPL_eO)
+<br>
+[Solo Transcription (Eb) {{<icon "download" >}}](/transcriptions/cannonball_adderley/Grand_Central.Adderley_Solo.Eb.pdf) 
+<br>
+(Coltrane's solo to be typed!)
 
 ---
 {{< alert >}}
