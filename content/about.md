@@ -32,7 +32,7 @@ I have handpicked a [few transcriptions](/music/) from some of my favorite solos
 
 ## Education 
 
-**Kavli Institute of Theoretical Physics** <br>
+**Kavli Institute for Theoretical Physics** <br>
 University of California, Santa Barbara, CA <br>
 *KITP Graduate Fellow*  (2026) <br>
 <!--Mentor: Erez Berg <br>-->
