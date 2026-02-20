@@ -97,6 +97,10 @@ Mentor: Di Xiao
 
 ##  Contributed Talks {#presentations}
 
+-  **"Anisotropic Josephson Coupling in Triplet Superconductors from Frustrated Magnetism"**<br>
+Kavli Institute for Theoretical Physics (2026)<br>
+University of California, Santa Barbara, CA
+
 -  **"Fractional Mermin-Ho relation in a Spinor Superconductor"**<br>
 13th International Conference on Elastic, Electrical, Transport, and Optical Properties of Inhomogeneous Media (2025)<br>
 New York City, NY
@@ -125,7 +129,7 @@ Chicago, IL
 
 ## Poster Short Talks
 
-- **Spatially inhomogeneous triplet pairing order and Josephson diode effect induced by frustrated spin textures**<br>
+- **"Spatially inhomogeneous triplet pairing order and Josephson diode effect induced by frustrated spin textures"**<br>
 MagLab Theory Winter School (2026)<br>
 National High Magnetic Field Lab, Tallahasee, FL
 
