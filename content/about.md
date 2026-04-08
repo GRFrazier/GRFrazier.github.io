@@ -97,7 +97,7 @@ Mentor: Di Xiao
 
 ##  Contributed Talks {#presentations}
 
-- **"Effective Josephson Junction Networks and $\pi$-Flux Trapping in Single-Crystal Superconductors with Frustrated Magnetic Textures"**<br>
+- **"Effective Josephson Junction Networks and π-Flux Trapping in Single-Crystal Superconductors with Frustrated Magnetic Textures"**<br>
 APS Global Summit (2026)<br>
 Denver, CO
 
