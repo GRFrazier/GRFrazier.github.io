@@ -28,7 +28,7 @@ I have handpicked a [few transcriptions](/music/) from some of my favorite solos
 
 # Curriculum Vitae {#curriculum_vitae}
 
-(Updated January, 2026)
+(Updated March, 2026)
 
 ## Education 
 
@@ -96,6 +96,10 @@ Mentor: Di Xiao
 ---
 
 ##  Contributed Talks {#presentations}
+
+- **"Effective Josephson Junction Networks and $\pi$-Flux Trapping in Single-Crystal Superconductors with Frustrated Magnetic Textures"**<br>
+APS Global Summit (2026)<br>
+Denver, CO
 
 -  **"Anisotropic Josephson Coupling in Triplet Superconductors from Frustrated Magnetism"**<br>
 Kavli Institute for Theoretical Physics (2026)<br>
