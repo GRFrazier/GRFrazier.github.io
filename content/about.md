@@ -159,6 +159,7 @@ Princeton, NJ
 
 ## Selected Awards
 
+- Johns Hopkins Dissertation Prize Fellowship (2026)
 - KITP Graduate Fellowship, University of California, Santa Barbara (2026)
 - Johns Hopkins Department of Physics Teaching Award (2025)
 - Sigma Pi Sigma Honors Society (2021)
