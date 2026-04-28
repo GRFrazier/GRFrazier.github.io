@@ -59,7 +59,7 @@ Mentor: Di Xiao
 <ol type="1" reversed>
     <li>
     <b>"Nonintegral Flux Trapping in Frustrated Josephson Networks of Triplet Superconductors</b><br>
-    <b>G. R. Frazier</b> and Y. Li<br>
+    <b>G. R. Frazier</b>, C. Lelievre, and Y. Li<br>
     <a href="https://doi.org/10.48550/arXiv.2604.24734">arXiv:2604.24734 (2026)</a>, Under review
     </li>
     <!-- -->
