@@ -58,9 +58,16 @@ Mentor: Di Xiao
 
 <ol type="1" reversed>
     <li>
-    <b>"Spatially inhomogeneous triplet pairing order and Josephson diode effect induced by frustrated spin textures"</b><br>
+    <b>"Nonintegral Flux Trapping in Frustrated Josephson Networks of Triplet Superconductors</b><br>
     <b>G. R. Frazier</b> and Y. Li<br>
-    <a href="https://doi.org/10.48550/arXiv.2510.25756">arXiv:2510.25756 (2025)</a>, Under review
+    <a href="https://doi.org/10.48550/arXiv.2604.24734">arXiv:2604.24734 (2026)</a>, Under review
+    </li>
+    <!-- -->
+    <!-- -->
+    <li>
+    <b>"Spatially Inhomogeneous Triplet Pairing Order and Josephson Diode Effect Induced by Frustrated Spin Textures"</b><br>
+    <b>G. R. Frazier</b> and Y. Li<br>
+    <a href="https://doi.org/10.48550/arXiv.2510.25756">arXiv:2510.25756 (2025)</a>, Accepted at PRB
     </li>
     <!-- -->
     <!-- -->
@@ -91,6 +98,7 @@ Mentor: Di Xiao
     <a href="https://doi.org/10.1116/6.0000684">J. Vac. Sci. Technol. A <b>39</b>, 011001 (2021)</a>
     </li>
 </ol>
+
 
 
 ---
