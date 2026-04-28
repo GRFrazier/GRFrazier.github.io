@@ -123,7 +123,7 @@ or
     <li>
     <b>"Berry Phase Enforced Spinor Pairing Order"</b><br>
     Y. Li and <b>G. R. Frazier</b> <br>
-    <a href="https://doi.org/10.48550/arXiv.2409.09579">arXiv:2409.09579 (2024)</a>, Under review
+    <a href="https://doi.org/10.48550/arXiv.2409.09579">arXiv:2409.09579 (2024)</a>, Accepted as Letter to Phys. Rev. Research
     </li>
     <!-- -->
     <!-- -->
