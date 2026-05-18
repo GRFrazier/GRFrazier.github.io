@@ -67,28 +67,30 @@ Mentor: Di Xiao
     <li>
     <b>"Spatially Inhomogeneous Triplet Pairing Order and Josephson Diode Effect Induced by Frustrated Spin Textures"</b><br>
     <b>G. R. Frazier</b> and Y. Li<br>
-    <a href="https://doi.org/10.48550/arXiv.2510.25756">arXiv:2510.25756 (2025)</a>, Accepted at <a href="https://doi.org/10.1103/kjbt-w5x5"><i>Phys. Rev. B</i></a>
+    <a href="https://doi.org/10.1103/kjbt-w5x5"><i>Phys. Rev. B</i> <b>113</b>, 174517 (2026)</a><br>
+    (<a href="https://doi.org/10.48550/arXiv.2510.25756">arXiv:2510.25756 </a>)
     </li>
     <!-- -->
     <!-- -->
     <li>
-    <b>"Anisotropic Josephson Coupling of <i>d</i>-vectors Arising from Interplay with Frustrated Spin Textures"</b><br>
+    <b>"Anisotropic Josephson Coupling of <i>d</i> vectors Arising from Frustrated Spin Textures"</b><br>
     <b>G. R. Frazier</b>, J. Zhang, and Y. Li<br>
-    <a href="https://doi.org/10.48550/arXiv.2506.15661">arXiv.2506.15661 (2025)</a>, Accepted at <a href="https://doi.org/10.1103/3v3f-3t97"><i>Phys. Rev. Lett.</i></a>
+    <a href="https://doi.org/10.1103/3v3f-3t97"><i>Phys. Rev. Lett.</i> <b>136</b>, 206001 (2026)</a><br>
+    (<a href="https://doi.org/10.48550/arXiv.2506.15661">arXiv.2506.15661</a>)
     </li>
     <!-- -->
     <!-- -->
     <li>
     <b>"Berry Phase Enforced Spinor Pairing Order"</b><br>
     Y. Li and <b>G. R. Frazier</b> <br>
-    <a href="https://doi.org/10.48550/arXiv.2409.09579">arXiv:2409.09579 (2024)</a>, Accepted as Letter at <i>Phys. Rev. Research,</i>
+    <a href="https://doi.org/10.48550/arXiv.2409.09579">arXiv:2409.09579 (2024)</a>, Accepted as a <a href="https://doi.org/10.1103/ytsp-xk3x">Letter at <i>Phys. Rev. Research</i></a>
     </li>
     <!-- -->
     <!-- -->
     <li>
     <b>"Designing Phase Sensitive Probes of Monopole Superconducting Order"</b><br>
     <b>G. R. Frazier</b>, J. Zhang, J. Zhang, X. Sun, and Y. Li <br>
-    <a href="https://doi.org/10.1103/PhysRevResearch.6.043189">Phys. Rev. Research <b>6</b> 043189 (2024)</a><br>
+    <a href="https://doi.org/10.1103/PhysRevResearch.6.043189"><i>Phys. Rev. Research</i> <b>6</b> 043189 (2024)</a><br>
     (<a href="https://doi.org/10.48550/arXiv.2407.18701">arXiv:2407.18701</a>)
     </li>
     <!-- -->
@@ -96,7 +98,7 @@ Mentor: Di Xiao
     <li>
     <b>"Acquisition and Analysis of Scanning Tunneling Spectroscopy Data—WSe<sub>2</sub> Monolayer"</b><br>
     R. M. Feenstra, <b>G. R. Frazier</b>, Y. Pan, S. Fölsch, Y.-C. Lin, B. Jariwala, K. Zhang, and J. Robinson  <br>
-    <a href="https://doi.org/10.1116/6.0000684">J. Vac. Sci. Technol. A <b>39</b>, 011001 (2021)</a>
+    <a href="https://doi.org/10.1116/6.0000684"><i>J. Vac. Sci. Technol. A</i> <b>39</b>, 011001 (2021)</a>
     </li>
 </ol>
 
