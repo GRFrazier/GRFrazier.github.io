@@ -123,9 +123,10 @@ or
     <!-- -->
     <!-- -->
     <li>
-    <b>"Berry Phase Enforced Spinor Pairing Order"</b><br>
+    <b>"Spinor Pairing Order Enforced by Berry Phase"</b><br>
     Y. Li and <b>G. R. Frazier</b> <br>
-    <a href="https://doi.org/10.48550/arXiv.2409.09579">arXiv:2409.09579 (2024)</a>, Accepted as a <a href="https://doi.org/10.1103/ytsp-xk3x">Letter at <i>Phys. Rev. Research</i></a>
+    <a href=https://doi.org/10.1103/ytsp-xk3x><i>Phys. Rev. Research</i> <b>8</b>, L022037 (2026)</a><br>
+    (<a href="https://doi.org/10.48550/arXiv.2409.09579">arXiv:2409.09579</a>)
     </li>
     <!-- -->
     <!-- -->
