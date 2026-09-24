@@ -42,7 +42,9 @@ showHeadingAnchors: false
 <!--</div>-->
 
 
-I am currently completing my Ph.D. at Johns Hopkins University under the supervision of Prof. Yi Li, where my research explores how topological electronic states and frustrated magnetism can give rise to novel forms of unconventional superconductivity.  
+I am currently a Kadanoff Postdoctoral Fellow at the University of Chicago, where I work with Kathy Levin.
+I completed my Ph.D. at Johns Hopkins University, where I was advised by Prof. Yi Li and coadvised by Prof. Oleg Tchernyshyov.
+There, my research explored how topological electronic states and frustrated magnetism can give rise to novel forms of unconventional superconductivity.
 I am motivated by the conceptual frontiers where existing frameworks used to describe unconventional superconducting pairing order are insufficient.
 By developing theoretical models that describe the interplay between topological band structure, nontrivial magnetic textures, and unconventional superconducting order, I aim to establish new paradigms that can guide the design and application of quantum materials.
 
@@ -73,24 +75,24 @@ or
 </figure>
 
 
----
+<!------->
 
-## Research Experience {#research_experience}
+<!--## Research Experience {#research_experience}-->
 
-{{< katex >}}
+<!--{{< katex >}}-->
 
-<b>Frustrated Magnetism and Unvoncentional Superconductivity:</b> [Pub. 4 and 5]
-- Employed a combination of symmetry analysis and *T*-matrix formalism to demonstrate that coupling itinerant electrons to a noncollinear classical exchange field can induce anisotropic Josephson couplings between superconducting <i>d</i>-vectors, analogous to Dzyaloshinskii-Moriya's anisotropic superexchange in magnetism.
-- Demonstrated that noncollinear spin textures can generate spin triplet pairing correlations, produce a Josephson diode effect, and can favor a spatially varying superconducting order, which can lead to anomalous vortices for nonunitary pairing order.
+<!--<b>Frustrated Magnetism and Unvoncentional Superconductivity:</b> [Pub. 4 and 5]-->
+<!--- Employed a combination of symmetry analysis and *T*-matrix formalism to demonstrate that coupling itinerant electrons to a noncollinear classical exchange field can induce anisotropic Josephson couplings between superconducting <i>d</i>-vectors, analogous to Dzyaloshinskii-Moriya's anisotropic superexchange in magnetism.-->
+<!--- Demonstrated that noncollinear spin textures can generate spin triplet pairing correlations, produce a Josephson diode effect, and can favor a spatially varying superconducting order, which can lead to anomalous vortices for nonunitary pairing order.-->
 
 
-<b>Novel States of a Spinor Superconductor:</b> [Pub. 3]
-- Studied a class of topological pairing order with Berry phase enforced half-integer partial wave symmetry arising from pairing states from Fermi surfaces with Chern numbers differing by odd integers.
-- Analyzed the nontrivial surface states of a lattice model of a spinor superconductor, which violates Nielsen-Ninomiya theorem due to broken U(1) symmetry, and showed that the superfluid velocity obeys a fractionalized Mermin-Ho relation.
+<!--<b>Novel States of a Spinor Superconductor:</b> [Pub. 3]-->
+<!--- Studied a class of topological pairing order with Berry phase enforced half-integer partial wave symmetry arising from pairing states from Fermi surfaces with Chern numbers differing by odd integers.-->
+<!--- Analyzed the nontrivial surface states of a lattice model of a spinor superconductor, which violates Nielsen-Ninomiya theorem due to broken U(1) symmetry, and showed that the superfluid velocity obeys a fractionalized Mermin-Ho relation.-->
 
-<b>Monopole Superconductivity:</b> [Pub. 2]
-- Investigated monopole harmonic superconductivity, a class of topological many-body order in which Cooper pairs carry nontrivial geometric phase.
-- Utilized symmetry principles, exact diagonalization, and many-body techniques to propose a set of phase-sensitive probes to distinguish monopole superconductors from other unconventional superconductors.
+<!--<b>Monopole Superconductivity:</b> [Pub. 2]-->
+<!--- Investigated monopole harmonic superconductivity, a class of topological many-body order in which Cooper pairs carry nontrivial geometric phase.-->
+<!--- Utilized symmetry principles, exact diagonalization, and many-body techniques to propose a set of phase-sensitive probes to distinguish monopole superconductors from other unconventional superconductors.-->
 
 ---
 
@@ -100,7 +102,14 @@ or
 
 <ol type="1" reversed>
     <li>
-    <b>"Nonintegral Flux Trapping in Frustrated Josephson Networks of Triplet Superconductors</b><br>
+    <b>"Smectic Superconductivity"</b><br>
+    <b>G. R. Frazier</b> and E. Berg <br>
+    <a href="https://doi.org/10.48550/arXiv.2609.20932">arXiv:2609.20932 (2026)</a>, Under review
+    </li>
+    <!-- -->
+    <!-- -->
+    <li>
+    <b>"Nonintegral Flux Trapping in Frustrated Josephson Networks of Triplet Superconductors"</b><br>
     <b>G. R. Frazier</b>, C. Lelievre, and Y. Li<br>
     <a href="https://doi.org/10.48550/arXiv.2604.24734">arXiv:2604.24734 (2026)</a>, Under review
     </li>
