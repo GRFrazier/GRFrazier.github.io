@@ -15,10 +15,10 @@ showHero = true
 <!--[Prof. Yi Li](https://physics-astronomy.jhu.edu/directory/yi-li/) -->
 <!--at Johns Hopkins University, and was a graduate fellow at KITP.-->
 
-I am currently a Kadanoff postdoctoral fellow at the James Franck Institute and Leinweber Institute for Theoretical Physics at the University of Chicago,
+I am currently a Kadanoff Postdoctoral Fellow at the James Franck Institute and Leinweber Institute for Theoretical Physics at the University of Chicago,
 where I work with Kathy Levin.
-I completed by my Ph.D. at Johns Hopkins University, where I was advised by Yi Li and coadvised by Oleg Tchernyshyov, and I also was a graduate fellow at 
-the Kavli Institute of Theoretical Physics.
+I completed my Ph.D. at Johns Hopkins University, where I was advised by Yi Li and coadvised by Oleg Tchernyshyov, and I was also a Graduate Fellow at 
+the Kavli Institute for Theoretical Physics.
 
 My research interests are broadly focused on strongly correlated systems, with a particular emphasis on unconventional superconductivity and its interplay with magnetism.
 <!--My research explores how topological electronic states and frustrated magnetism can give rise to novel forms of unconventional superconductivity.-->
@@ -173,12 +173,12 @@ Chicago, IL
 ## Poster Short Talks
 
 - **"Nonintegral Flux Trapping in Frustrated Josephson Networks of Triplet Superconductors"**<br>
-Gorodn Research Conference and Seminar (2026)<br>
+Gordon Research Conference and Seminar (2026)<br>
 South Hadley, MA
 
 - **"Spatially inhomogeneous triplet pairing order and Josephson diode effect induced by frustrated spin textures"**<br>
 MagLab Theory Winter School (2026)<br>
-National High Magnetic Field Lab, Tallahasee, FL
+National High Magnetic Field Lab, Tallahassee, FL
 
 - **"Anisotropic Josephson coupling of <i>d</i>-vectors arising from interplay with frustrated spin textures"**<br>
 Simons School on Superconductivity (2025)<br>

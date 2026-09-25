@@ -5,9 +5,9 @@ heroStyle = "background"
 showHero = true
 +++
 
-Below is a collection of selected notes, taken from research and teaching.
+# Teaching and Notes
 
-## Selected Notes
+Below is a collection of selected notes, taken from research and teaching.
 
 {{< katex >}}
 

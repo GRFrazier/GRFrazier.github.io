@@ -43,21 +43,25 @@ showHeadingAnchors: false
 
 
 I am currently a Kadanoff Postdoctoral Fellow at the University of Chicago, where I work with Kathy Levin.
-I completed my Ph.D. at Johns Hopkins University, where I was advised by Prof. Yi Li and coadvised by Prof. Oleg Tchernyshyov.
-There, my research explored how topological electronic states and frustrated magnetism can give rise to novel forms of unconventional superconductivity.
-I am motivated by the conceptual frontiers where existing frameworks used to describe unconventional superconducting pairing order are insufficient.
-By developing theoretical models that describe the interplay between topological band structure, nontrivial magnetic textures, and unconventional superconducting order, I aim to establish new paradigms that can guide the design and application of quantum materials.
+I completed my Ph.D. at Johns Hopkins University, where I was advised by Yi Li and coadvised by Oleg Tchernyshyov, and I was also a Graduate Fellow at the Kavli Institute for Theoretical Physics.
+
+
+I am broadly interested in unconventional superconductivity and collective phenomena.
+My Ph.D. research explored how topological electronic states and frustrated magnetism can give rise to unconventional superconducting states.
+More recently, I have been interested in how soft collective modes, phase fluctuations, and competing orders reshape superconducting order and its interplay with magnetism.
+
+<!--I am motivated by the conceptual frontiers where existing frameworks used to describe unconventional superconducting pairing order are insufficient.-->
+<!--By developing theoretical models that describe the interplay between topological band structure, nontrivial magnetic textures, and unconventional superconducting order, I aim to establish new paradigms that can guide the design and application of quantum materials.-->
 
 ## Research Interests
 <ul>
     <li> Unconventional superconductivity
-    <li> Topological many body order
+    <li> Topology and magnetism
     <li> Strongly correlated systems
-    <li> Frustrated magnetism
 </ul>
 
-Below you can find a short [description of my research](#research_experience) as well as [publications and preprints](#publications).
-An up-to-date list of publications can be found at
+Below is a list of my [publications and preprints](#publications).
+An up-to-date list can be found at
 [Google Scholar](https://scholar.google.com/citations?&user=EIR50qkAAAAJ),
 [arXiv](https://arxiv.org/a/frazier_g_1.html),
 or
@@ -66,12 +70,24 @@ or
 
 
 
-<img src="/images/research/effective_tunneling.sd.png" style="width: 100%;" >
-<figure style="width: 70%;">
+<!--<figure style="width: 70%; margin: 0 auto;">-->
+<!--  <img src="/images/research/effective_tunneling.sd.png"-->
+<!--       alt="Effective tunneling of itinerant electrons in the presence of a frustrated local exchange field."-->
+<!--       style="width: 100%; height: auto;">-->
+<!--  <figcaption>-->
+<!--    <b>Figure:</b> Effective tunneling of itinerant electrons in the presence of a frustrated local exchange field.-->
+<!--    Adapted from <a href="https://doi.org/10.1103/3v3f-3t97" target="_blank" rel="noopener">Frazier <i>et al.</i> (2026)</a>.-->
+<!--  </figcaption>-->
+<!--</figure>-->
+
+<figure style="width: 70%; margin: 0 auto;">
+  <img src="/images/research/dvector_texture.png"
+       alt="Noncollinear d vector textures in a spin triplet superconductor arising from anisotropic Josephson exchange couplings."
+       style="width: 100%; height: auto;">
   <figcaption>
-  <b>Figure:</b> Effective tunneling of itinerant electrons in presence of a frustrated local exchange field.
-  Adapted from <a href="https://doi.org/10.48550/arXiv.2506.15661" target ="_blank" rel ="noopener">Frazier <i>et al.</i> (2025)</a>
-</figcaption>
+    <b>Figure:</b> Noncollinear <i>d</i> vector textures in a spin triplet superconductor arising from anisotropic Josephson exchange couplings.
+    Adapted from <a href="https://doi.org/10.1103/3v3f-3t97" target="_blank" rel="noopener">Frazier <i>et al.</i> (2026)</a>.
+  </figcaption>
 </figure>
 
 
@@ -134,7 +150,7 @@ or
     <li>
     <b>"Spinor Pairing Order Enforced by Berry Phase"</b><br>
     Y. Li and <b>G. R. Frazier</b> <br>
-    <a href=https://doi.org/10.1103/ytsp-xk3x><i>Phys. Rev. Research</i> <b>8</b>, L022037 (2026)</a><br>
+    <a href="https://doi.org/10.1103/ytsp-xk3x"><i>Phys. Rev. Research</i> <b>8</b>, L022037 (2026)</a><br>
     (<a href="https://doi.org/10.48550/arXiv.2409.09579">arXiv:2409.09579</a>)
     </li>
     <!-- -->

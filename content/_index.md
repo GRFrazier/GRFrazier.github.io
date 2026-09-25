@@ -14,14 +14,15 @@ draft: false
 |
 [ORCID {{<icon "orcid">}}](https://orcid.org/0000-0002-3707-2118)
 
-I am a Kadanoff postdoctoral fellow at the University of Chicago, where I work with [Kathy Levin](https://physics.uchicago.edu/people/profile/kathryn-levin/).
+I am a Kadanoff Postdoctoral Fellow at the University of Chicago, where I work with [Kathy Levin](https://physics.uchicago.edu/people/profile/kathryn-levin/).
 I earned my Ph.D. studying theoretical condensed matter physics
 at Johns Hopkins University, where I was advised by 
 [Yi Li](https://physics-astronomy.jhu.edu/directory/yi-li/) 
 and coadvised by
 [Oleg Tchernyshyov](https://physics-astronomy.jhu.edu/directory/oleg-tchernyshyov/).
-I was also a graduate fellow at the Kavli Institute for Theoretical Physics.
-My research interests include unconventional superconductivity, topological materials, and strongly correlated systems.
+I was also a Graduate Fellow at the Kavli Institute for Theoretical Physics.
+My research focuses on unconventional superconductivity and its interplay with topology, magnetism, and strongly correlated systems.
+<!--My research interests include unconventional superconductivity, topological materials, and strongly correlated systems.-->
 
 [**Curriculum Vitae**](about/) 
 ||
