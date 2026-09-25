@@ -1,5 +1,5 @@
 ---
-description: I am a physics PhD student studying condensed matter theory at Johns Hopkins.  I provide details of my research, teaching notes, and some musical transcriptions, which I do as a hobby.
+description: I am a physics postdoc working in condensed matter theory at the University of Chicago.  I provide details of my research, teaching notes, and some musical transcriptions, which I do as a hobby.
 
 draft: false
 
