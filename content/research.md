@@ -42,8 +42,8 @@ showHeadingAnchors: false
 <!--</div>-->
 
 
-I am currently a Kadanoff Postdoctoral Fellow at the University of Chicago, where I work with Kathy Levin.
-I completed my Ph.D. at Johns Hopkins University, where I was advised by Yi Li and coadvised by Oleg Tchernyshyov, and I was also a Graduate Fellow at the Kavli Institute for Theoretical Physics.
+<!--I am currently a Kadanoff Postdoctoral Fellow at the University of Chicago, where I work with Kathy Levin.-->
+<!--I completed my Ph.D. at Johns Hopkins University, where I was advised by Yi Li and coadvised by Oleg Tchernyshyov, and I was also a Graduate Fellow at the Kavli Institute for Theoretical Physics.-->
 
 
 I am broadly interested in unconventional superconductivity and collective phenomena.
