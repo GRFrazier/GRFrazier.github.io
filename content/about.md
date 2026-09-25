@@ -26,7 +26,7 @@ My research interests are broadly focused on strongly correlated systems, with a
 
 
 
-Outside my work, you can find me playing saxophone semiprofessionally, and I also enjoy composing and also transcribing jazz music.
+Outside my work, you can find me playing saxophone semiprofessionally, and I also enjoy composing and transcribing jazz music.
 I have handpicked a [few transcriptions](/music/) from some of my favorite solos.
 
 <figure style="width: 60%;">
